@@ -8,4 +8,4 @@
   </picture>
 </a>
 
-Hello World! 👋 On [chris.lu](https://chris.lu) you will find my tutorials and can learn more about me
+Hello World! 👋 On [chris.lu](https://chris.lu) you will find my web development posts and tutorials and can learn more about me
